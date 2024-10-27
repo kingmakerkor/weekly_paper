@@ -18,7 +18,7 @@
 <br>
 <H2>2. Git에서 branch는 무엇인가요?</H2>
 
-> ### 브랜치는 독립적인 Working Directory 를 의미<br>
+> ### 브랜치는 독립적인 Working Directory 를 의미하며, 코드의 관리 흐름을 기록<br>
 <br>
 
 <H2>3. Git에서 branch 왜 사용하나요?</H2>
